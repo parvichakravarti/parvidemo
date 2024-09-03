@@ -1,3 +1,4 @@
 # parvidemo
 this is my 1st github repository
-author Parvi Chakravarti
+<br>
+Author Parvi Chakravarti
